@@ -1,4 +1,4 @@
-# Work Day Schedulerscches
+# Work Day Scheduler
 
 ## Purpose
 A daily planner that allows the user to schedule tasks at each hour of the work day. 
